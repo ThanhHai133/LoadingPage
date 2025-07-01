@@ -1,7 +1,7 @@
 # EDCLoading
 # ✨ EDC Loading Overlay
 
-Hiệu ứng loading chữ "EDC..." đẹp mắt, dễ nhúng, hoạt động độc lập với framework.  
+Hiệu ứng loading chữ "EDC..." chỉ cần thêm vào và gọi thêm sử dụng.  
 **Tương thích với mọi nền tảng: Blazor, ASP.NET MVC, ASP.NET Core API, Web Forms, React, Vue, Laravel, HTML...**
 
 ---
