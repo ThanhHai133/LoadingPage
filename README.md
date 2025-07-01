@@ -43,10 +43,4 @@ Hiệu ứng loading chữ "EDC..." chỉ cần thêm vào và gọi thêm sử 
         document.getElementById('edc-loading-overlay')?.classList.add('d-none');
       }, 3000);
     });
-
-  // ✅ Dùng trong JS / Blazor để điều khiển thủ công
-  window.EDCLoader = {
-    show: () => document.getElementById('edc-loading-overlay')?.classList.remove('d-none'),
-    hide: () => document.getElementById('edc-loading-overlay')?.classList.add('d-none')
-  };
 </script>
